@@ -62,14 +62,13 @@ Para começar a trabalhar neste projeto, siga as etapas abaixo:
       ```bash
    code .
 
-
-# Aviso Importante
-<br/>
-<strong>Antes de continuar, verifique se você tem o Node.js e a CLI do Expo instalados</strong>
+> **⚠️ AVISO:**  
+> Antes de continuar, verifique se você tem o Node.js e a CLI do Expo instalados <br/>
+> Certifique-se de consultar se foi instalado corretamente.
+> 
 
 1. **Instalar o Node.js**  
 Se você ainda não tem o Node.js instalado, acesse o site oficial do <a href="https://nodejs.org/pt" target="_blank" style="color: blue;">Node.js</a> e baixe a versão mais recente.
-
 
 2. **Instalar a CLI do Expo**
 Para instalar a CLI do Expo, execute o seguinte comando globalmente:
