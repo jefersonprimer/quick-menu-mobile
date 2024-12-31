@@ -31,7 +31,7 @@
 ## Previews
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <img src="./assets/iphone-home-preview.png" alt="iPhone Home Preview" style="width: 200px; height: 500px;">
-  <img src="./assets/iphone-splash-preview-dark.png" alt="iPhone Splash Preview (Dark)" style="width: 200px; height: 500px;">
-  <img src="./assets/iphone-splash-preview-dark.png" alt="iPhone Splash Preview (Dark)" style="width: 200px; height: 500px;">
+  <img src="./assets/iphone-home-preview.png" alt="iPhone Home Preview" style="width: 250px; height: 500px;">
+  <img src="./assets/iphone-splash-preview-dark.png" alt="iPhone Splash Preview (Dark)" style="width: 250px; height: 500px;">
+  <img src="./assets/iphone-splash-preview-dark.png" alt="iPhone Splash Preview (Dark)" style="width: 250px; height: 500px;">
 </div>
